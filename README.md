@@ -2,7 +2,7 @@
 - 👀 I’m interested in Money, Video Games, Music Theory, and Art
 - 🌱 I’m currently learning things
 - 💞️ I’m looking to collaborate on stuff
-- 📫 Contact me here www.discord.gg/js9pzPu/
+- 📫 Contact me here https://discord.gg/DrSty2W2ne
 
 <!---
 Tanokar/Tanos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
